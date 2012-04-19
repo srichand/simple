@@ -1,4 +1,12 @@
-*.pyc
-*.db
 /settings.py
-include
+
+# Python binaries
+*.pyc
+
+# Databases
+*.db
+
+# Pip and virtualenv
+include/
+lib/
+bin/
